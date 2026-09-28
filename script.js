@@ -409,7 +409,7 @@ for (let i = 0; i < resultStudents.length; i++) {
         student.finalExam
     );
 
-    if (total >= 50) {
+    if (total >= 51) {
         passedStudents++;
     }
 }
